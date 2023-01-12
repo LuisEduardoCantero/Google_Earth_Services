@@ -1,0 +1,14 @@
+# Archivos generados por el sistema
+*.log
+*.swp
+*.swo
+*.csv
+*.xml
+*.json
+
+# Directorios y archivos de sistemas de control de versiones
+.git
+.gitignore
+
+*.csv
+*.xml
