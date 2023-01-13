@@ -1,7 +1,0 @@
-Description,Transaction Date,Transaction Time,Tax Type,Transaction Type,Refund Type,Product Title,Product id,Product Type,Sku Id,Hardware,Buyer Country,Buyer State,Buyer Postal Code,Buyer Currency,Amount (Buyer Currency),Currency Conversion Rate,Merchant Currency,Amount (Merchant Currency)
-GPA.3324-4991-8751-10218,"Mar 30, 2017",11:06:42 AM PDT,,Charge,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,HWCAM-H,MX,,37520,MXN,15.00,1.000000,MXN,15.00
-GPA.3324-4991-8751-10218,"Mar 30, 2017",11:06:42 AM PDT,,Google fee,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,HWCAM-H,MX,,37520,MXN,-4.50,1.000000,MXN,-4.50
-GPA.3324-5150-2559-73597,"Mar 31, 2017",5:07:47 PM PDT,,Charge,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,zeroflte,MX,GTO,37530,MXN,15.00,1.000000,MXN,15.00
-GPA.3324-5150-2559-73597,"Mar 31, 2017",5:07:47 PM PDT,,Google fee,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,zeroflte,MX,GTO,37530,MXN,-4.50,1.000000,MXN,-4.50
-GPA.3394-3081-5917-82419,"Mar 31, 2017",8:22:18 PM PDT,,Charge,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,k7,MX,,37230,MXN,15.00,1.000000,MXN,15.00
-GPA.3394-3081-5917-82419,"Mar 31, 2017",8:22:18 PM PDT,,Google fee,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,k7,MX,,37230,MXN,-4.50,1.000000,MXN,-4.50
