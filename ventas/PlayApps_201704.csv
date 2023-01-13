@@ -1,0 +1,11 @@
+Description,Transaction Date,Transaction Time,Tax Type,Transaction Type,Refund Type,Product Title,Product id,Product Type,Sku Id,Hardware,Buyer Country,Buyer State,Buyer Postal Code,Buyer Currency,Amount (Buyer Currency),Currency Conversion Rate,Merchant Currency,Amount (Merchant Currency)
+GPA.3387-3977-5142-32931,"Apr 6, 2017",7:56:04 AM PDT,,Charge,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,klteatt,MX,,37100,MXN,15.00,1.000000,MXN,15.00
+GPA.3387-3977-5142-32931,"Apr 6, 2017",7:56:04 AM PDT,,Google fee,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,klteatt,MX,,37100,MXN,-4.50,1.000000,MXN,-4.50
+GPA.3333-6067-1266-27770,"Apr 19, 2017",10:21:11 AM PDT,,Charge,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,athene,MX,,56619,MXN,15.00,1.000000,MXN,15.00
+GPA.3333-6067-1266-27770,"Apr 19, 2017",10:21:11 AM PDT,,Google fee,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,athene,MX,,56619,MXN,-4.50,1.000000,MXN,-4.50
+GPA.3399-5338-2380-81247,"Apr 30, 2017",5:26:29 AM PDT,,Charge,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,cedric,CO,,,COP,2500.00,0.006395,MXN,15.99
+GPA.3399-5338-2380-81247,"Apr 30, 2017",5:26:29 AM PDT,,Google fee,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,cedric,CO,,,COP,-750.00,0.006395,MXN,-4.80
+GPA.3399-5338-2380-81247,"Apr 30, 2017",5:49:37 AM PDT,,Charge refund,Full,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,cedric,CO,,,COP,-2500.00,0.006395,MXN,-15.99
+GPA.3399-5338-2380-81247,"Apr 30, 2017",5:49:37 AM PDT,,Google fee refund,Full,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,cedric,CO,,,COP,750.00,0.006395,MXN,4.80
+GPA.3397-0005-9437-88979,"Apr 30, 2017",5:13:00 PM PDT,,Charge,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,PIXI3_45_4G,MX,,45080,MXN,15.00,1.000000,MXN,15.00
+GPA.3397-0005-9437-88979,"Apr 30, 2017",5:13:00 PM PDT,,Google fee,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,PIXI3_45_4G,MX,,45080,MXN,-4.50,1.000000,MXN,-4.50

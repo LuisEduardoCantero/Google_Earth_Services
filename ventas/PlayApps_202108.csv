@@ -1,0 +1,47 @@
+Description,Transaction Date,Transaction Time,Tax Type,Transaction Type,Refund Type,Product Title,Product id,Product Type,Sku Id,Hardware,Buyer Country,Buyer State,Buyer Postal Code,Buyer Currency,Amount (Buyer Currency),Currency Conversion Rate,Merchant Currency,Amount (Merchant Currency)
+GPA.3324-8539-7811-57283,"Aug 2, 2021",8:45:11 AM PDT,,Charge,,Construcción Compuesta OR - IMCA,com.ingenieriacivilmexico.luiscantero.disenodecolumnascompuestas,0,,HWVOG,MX,,09510,MXN,75.00,1.000000,MXN,75.00
+GPA.3324-8539-7811-57283,"Aug 2, 2021",8:45:11 AM PDT,,Google fee,,Construcción Compuesta OR - IMCA,com.ingenieriacivilmexico.luiscantero.disenodecolumnascompuestas,0,,HWVOG,MX,,09510,MXN,-11.25,1.000000,MXN,-11.25
+GPA.3324-8539-7811-57283,"Aug 2, 2021",8:45:11 AM PDT,Mexico VAT,Tax,,Construcción Compuesta OR - IMCA,com.ingenieriacivilmexico.luiscantero.disenodecolumnascompuestas,0,,HWVOG,MX,,09510,MXN,-1.80,1.000000,MXN,-1.80
+GPA.3319-2094-8771-01331,"Aug 2, 2021",5:00:46 PM PDT,,Charge,,Diseño de columnas ACI 318 - 19,com.ingenieriacivilmexico.luiscantero.disenodecolumnasaci318_19,0,,sargo,MX,,97100,MXN,75.00,1.000000,MXN,75.00
+GPA.3319-2094-8771-01331,"Aug 2, 2021",5:00:46 PM PDT,,Google fee,,Diseño de columnas ACI 318 - 19,com.ingenieriacivilmexico.luiscantero.disenodecolumnasaci318_19,0,,sargo,MX,,97100,MXN,-11.25,1.000000,MXN,-11.25
+GPA.3319-2094-8771-01331,"Aug 2, 2021",5:00:46 PM PDT,Mexico VAT,Tax,,Diseño de columnas ACI 318 - 19,com.ingenieriacivilmexico.luiscantero.disenodecolumnasaci318_19,0,,sargo,MX,,97100,MXN,-1.80,1.000000,MXN,-1.80
+GPA.3378-5701-7356-42774,"Aug 3, 2021",1:37:18 AM PDT,,Charge,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,OP4EFDL1,MX,MÉX.,55220,MXN,75.00,1.000000,MXN,75.00
+GPA.3378-5701-7356-42774,"Aug 3, 2021",1:37:18 AM PDT,,Google fee,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,OP4EFDL1,MX,MÉX.,55220,MXN,-11.25,1.000000,MXN,-11.25
+GPA.3378-5701-7356-42774,"Aug 3, 2021",1:37:18 AM PDT,Mexico VAT,Tax,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,OP4EFDL1,MX,MÉX.,55220,MXN,-1.80,1.000000,MXN,-1.80
+GPA.3314-4306-7221-02853,"Aug 4, 2021",3:17:15 PM PDT,,Charge,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,a7y18lte,MX,,58130,MXN,75.00,1.000000,MXN,75.00
+GPA.3314-4306-7221-02853,"Aug 4, 2021",3:17:15 PM PDT,,Google fee,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,a7y18lte,MX,,58130,MXN,-11.25,1.000000,MXN,-11.25
+GPA.3314-4306-7221-02853,"Aug 4, 2021",3:17:15 PM PDT,Mexico VAT,Tax,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,a7y18lte,MX,,58130,MXN,-1.80,1.000000,MXN,-1.80
+GPA.3318-2018-5404-30962,"Aug 6, 2021",6:49:04 PM PDT,,Charge,,Construcción Compuesta OR - IMCA,com.ingenieriacivilmexico.luiscantero.disenodecolumnascompuestas,0,,nash,MX,,64530,MXN,75.00,1.000000,MXN,75.00
+GPA.3318-2018-5404-30962,"Aug 6, 2021",6:49:04 PM PDT,,Google fee,,Construcción Compuesta OR - IMCA,com.ingenieriacivilmexico.luiscantero.disenodecolumnascompuestas,0,,nash,MX,,64530,MXN,-11.25,1.000000,MXN,-11.25
+GPA.3318-2018-5404-30962,"Aug 6, 2021",6:49:04 PM PDT,Mexico VAT,Tax,,Construcción Compuesta OR - IMCA,com.ingenieriacivilmexico.luiscantero.disenodecolumnascompuestas,0,,nash,MX,,64530,MXN,-1.80,1.000000,MXN,-1.80
+GPA.3358-7151-8518-13200,"Aug 7, 2021",4:29:48 PM PDT,,Charge,,Diseño de vigas ACI 318 - 19,com.vigas.luiscantero.disenodevigasaci318_19,0,,begonia,MX,,86690,MXN,75.00,1.000000,MXN,75.00
+GPA.3358-7151-8518-13200,"Aug 7, 2021",4:29:48 PM PDT,,Google fee,,Diseño de vigas ACI 318 - 19,com.vigas.luiscantero.disenodevigasaci318_19,0,,begonia,MX,,86690,MXN,-11.25,1.000000,MXN,-11.25
+GPA.3358-7151-8518-13200,"Aug 7, 2021",4:29:48 PM PDT,Mexico VAT,Tax,,Diseño de vigas ACI 318 - 19,com.vigas.luiscantero.disenodevigasaci318_19,0,,begonia,MX,,86690,MXN,-1.80,1.000000,MXN,-1.80
+GPA.3312-7101-7484-75814,"Aug 9, 2021",3:36:41 PM PDT,,Charge,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,o1s,ES,ALICANTE,03300,EUR,2.59,23.544000,MXN,60.98
+GPA.3341-4679-8491-96325,"Aug 10, 2021",3:19:04 PM PDT,,Charge,,Diseño de columnas NTC - RSEE 2017,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,r7,BO,,,BOB,25.99,2.924100,MXN,76.00
+GPA.3341-4679-8491-96325,"Aug 10, 2021",3:19:04 PM PDT,,Google fee,,Diseño de columnas NTC - RSEE 2017,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,r7,BO,,,BOB,-3.90,2.924100,MXN,-11.40
+GPA.3341-4679-8491-96325,"Aug 10, 2021",3:19:04 PM PDT,Mexico VAT,Tax,,Diseño de columnas NTC - RSEE 2017,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,r7,BO,,,MXN,-1.82,1.000000,MXN,-1.82
+GPA.3331-4285-3045-19217,"Aug 13, 2021",11:32:08 AM PDT,,Charge,,Beam design ACI 318 - 19,com.vigas.luiscantero.beamdesignaci318_19,0,,a30,MX,,37230,MXN,5.00,1.000000,MXN,5.00
+GPA.3331-4285-3045-19217,"Aug 13, 2021",11:32:08 AM PDT,,Google fee,,Beam design ACI 318 - 19,com.vigas.luiscantero.beamdesignaci318_19,0,,a30,MX,,37230,MXN,-0.75,1.000000,MXN,-0.75
+GPA.3331-4285-3045-19217,"Aug 13, 2021",11:32:08 AM PDT,Mexico VAT,Tax,,Beam design ACI 318 - 19,com.vigas.luiscantero.beamdesignaci318_19,0,,a30,MX,,37230,MXN,-0.12,1.000000,MXN,-0.12
+GPA.3366-6140-9938-15921,"Aug 14, 2021",2:23:27 AM PDT,,Charge,,Diseño de columnas ACI 318 - 19,com.ingenieriacivilmexico.luiscantero.disenodecolumnasaci318_19,0,,r7,BO,,,BOB,25.99,2.880800,MXN,74.87
+GPA.3366-6140-9938-15921,"Aug 14, 2021",2:23:27 AM PDT,,Google fee,,Diseño de columnas ACI 318 - 19,com.ingenieriacivilmexico.luiscantero.disenodecolumnasaci318_19,0,,r7,BO,,,BOB,-3.90,2.880800,MXN,-11.24
+GPA.3366-6140-9938-15921,"Aug 14, 2021",2:23:27 AM PDT,Mexico VAT,Tax,,Diseño de columnas ACI 318 - 19,com.ingenieriacivilmexico.luiscantero.disenodecolumnasaci318_19,0,,r7,BO,,,MXN,-1.80,1.000000,MXN,-1.80
+GPA.3376-9699-7525-79181,"Aug 16, 2021",5:03:56 AM PDT,,Charge,,Column design ACI 318 - 19,com.ingenieriacivilmexico.luiscantero.columndesignaci318_19,0,,a30,MX,,37230,MXN,5.00,1.000000,MXN,5.00
+GPA.3376-9699-7525-79181,"Aug 16, 2021",5:03:56 AM PDT,,Google fee,,Column design ACI 318 - 19,com.ingenieriacivilmexico.luiscantero.columndesignaci318_19,0,,a30,MX,,37230,MXN,-0.75,1.000000,MXN,-0.75
+GPA.3376-9699-7525-79181,"Aug 16, 2021",5:03:56 AM PDT,Mexico VAT,Tax,,Column design ACI 318 - 19,com.ingenieriacivilmexico.luiscantero.columndesignaci318_19,0,,a30,MX,,37230,MXN,-0.12,1.000000,MXN,-0.12
+GPA.3391-2381-9399-92599,"Aug 20, 2021",10:04:14 AM PDT,,Charge,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,dreamlte,MX,,10920,MXN,75.00,1.000000,MXN,75.00
+GPA.3391-2381-9399-92599,"Aug 20, 2021",10:04:14 AM PDT,,Google fee,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,dreamlte,MX,,10920,MXN,-11.25,1.000000,MXN,-11.25
+GPA.3391-2381-9399-92599,"Aug 20, 2021",10:04:14 AM PDT,Mexico VAT,Tax,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,dreamlte,MX,,10920,MXN,-1.80,1.000000,MXN,-1.80
+GPA.3312-5232-2284-72350,"Aug 20, 2021",10:37:44 AM PDT,,Charge,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,lavender,MX,,74340,MXN,75.00,1.000000,MXN,75.00
+GPA.3312-5232-2284-72350,"Aug 20, 2021",10:37:44 AM PDT,,Google fee,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,lavender,MX,,74340,MXN,-11.25,1.000000,MXN,-11.25
+GPA.3312-5232-2284-72350,"Aug 20, 2021",10:37:44 AM PDT,Mexico VAT,Tax,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,lavender,MX,,74340,MXN,-1.80,1.000000,MXN,-1.80
+GPA.3385-6019-1171-96427,"Aug 27, 2021",5:08:58 PM PDT,,Charge,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,HWAMN-M,MX,,23070,MXN,75.00,1.000000,MXN,75.00
+GPA.3385-6019-1171-96427,"Aug 27, 2021",5:08:58 PM PDT,,Google fee,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,HWAMN-M,MX,,23070,MXN,-11.25,1.000000,MXN,-11.25
+GPA.3385-6019-1171-96427,"Aug 27, 2021",5:08:58 PM PDT,Mexico VAT,Tax,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,HWAMN-M,MX,,23070,MXN,-1.80,1.000000,MXN,-1.80
+GPA.3331-4232-0092-11131,"Aug 31, 2021",11:02:11 AM PDT,,Charge,,Beam design ACI 318 - 19,com.vigas.luiscantero.beamdesignaci318_19,0,,a71,MX,TLAX.,90356,MXN,75.00,1.000000,MXN,75.00
+GPA.3331-4232-0092-11131,"Aug 31, 2021",11:02:11 AM PDT,,Google fee,,Beam design ACI 318 - 19,com.vigas.luiscantero.beamdesignaci318_19,0,,a71,MX,TLAX.,90356,MXN,-11.25,1.000000,MXN,-11.25
+GPA.3331-4232-0092-11131,"Aug 31, 2021",11:02:11 AM PDT,Mexico VAT,Tax,,Beam design ACI 318 - 19,com.vigas.luiscantero.beamdesignaci318_19,0,,a71,MX,TLAX.,90356,MXN,-1.80,1.000000,MXN,-1.80
+GPA.3346-6548-2797-16059,"Aug 31, 2021",12:01:45 PM PDT,,Charge,,Diseño de columnas NTC - RSEE 2017,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,HWAMN-M,MX,,23070,MXN,75.00,1.000000,MXN,75.00
+GPA.3346-6548-2797-16059,"Aug 31, 2021",12:01:45 PM PDT,,Google fee,,Diseño de columnas NTC - RSEE 2017,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,HWAMN-M,MX,,23070,MXN,-11.25,1.000000,MXN,-11.25
+GPA.3346-6548-2797-16059,"Aug 31, 2021",12:01:45 PM PDT,Mexico VAT,Tax,,Diseño de columnas NTC - RSEE 2017,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,HWAMN-M,MX,,23070,MXN,-1.80,1.000000,MXN,-1.80

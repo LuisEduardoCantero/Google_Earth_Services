@@ -1,0 +1,43 @@
+Description,Transaction Date,Transaction Time,Tax Type,Transaction Type,Refund Type,Product Title,Product id,Product Type,Sku Id,Hardware,Buyer Country,Buyer State,Buyer Postal Code,Buyer Currency,Amount (Buyer Currency),Currency Conversion Rate,Merchant Currency,Amount (Merchant Currency)
+GPA.3384-6550-3927-49999,"Oct 1, 2020",7:02:19 AM PDT,,Charge,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,aljeter,MX,,69800,MXN,39.00,1.000000,MXN,39.00
+GPA.3384-6550-3927-49999,"Oct 1, 2020",7:02:19 AM PDT,,Google fee,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,aljeter,MX,,69800,MXN,-11.70,1.000000,MXN,-11.70
+GPA.3384-6550-3927-49999,"Oct 1, 2020",7:02:19 AM PDT,Mexico VAT,Tax,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,aljeter,MX,,69800,MXN,-1.87,1.000000,MXN,-1.87
+GPA.3303-6258-5703-48807,"Oct 2, 2020",3:13:54 PM PDT,,Charge,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,a30s,MX,,77086,MXN,39.00,1.000000,MXN,39.00
+GPA.3303-6258-5703-48807,"Oct 2, 2020",3:13:54 PM PDT,,Google fee,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,a30s,MX,,77086,MXN,-11.70,1.000000,MXN,-11.70
+GPA.3303-6258-5703-48807,"Oct 2, 2020",3:13:54 PM PDT,Mexico VAT,Tax,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,a30s,MX,,77086,MXN,-1.87,1.000000,MXN,-1.87
+GPA.3346-1881-6897-16504,"Oct 3, 2020",7:50:42 AM PDT,,Charge,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,crownqltechn,MX,,36960,MXN,39.00,1.000000,MXN,39.00
+GPA.3346-1881-6897-16504,"Oct 3, 2020",7:50:42 AM PDT,,Google fee,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,crownqltechn,MX,,36960,MXN,-11.70,1.000000,MXN,-11.70
+GPA.3346-1881-6897-16504,"Oct 3, 2020",7:50:42 AM PDT,Mexico VAT,Tax,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,crownqltechn,MX,,36960,MXN,-1.88,1.000000,MXN,-1.88
+GPA.3388-8106-9039-11920,"Oct 6, 2020",6:07:17 PM PDT,,Charge,,Diseño de columnas NTC - RSEE 2017,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,lavender,MX,,30796,MXN,48.00,1.000000,MXN,48.00
+GPA.3388-8106-9039-11920,"Oct 6, 2020",6:07:17 PM PDT,,Google fee,,Diseño de columnas NTC - RSEE 2017,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,lavender,MX,,30796,MXN,-14.40,1.000000,MXN,-14.40
+GPA.3388-8106-9039-11920,"Oct 6, 2020",6:07:17 PM PDT,Mexico VAT,Tax,,Diseño de columnas NTC - RSEE 2017,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,lavender,MX,,30796,MXN,-2.30,1.000000,MXN,-2.30
+GPA.3362-3812-3256-05587,"Oct 7, 2020",3:43:50 PM PDT,,Charge,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,HWVOG,MX,,58500,MXN,48.00,1.000000,MXN,48.00
+GPA.3362-3812-3256-05587,"Oct 7, 2020",3:43:50 PM PDT,,Google fee,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,HWVOG,MX,,58500,MXN,-14.40,1.000000,MXN,-14.40
+GPA.3362-3812-3256-05587,"Oct 7, 2020",3:43:50 PM PDT,Mexico VAT,Tax,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,HWVOG,MX,,58500,MXN,-2.30,1.000000,MXN,-2.30
+GPA.3313-5664-3466-31721,"Oct 9, 2020",7:48:55 PM PDT,,Charge,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,HWSTK-HF,MX,,80246,MXN,48.00,1.000000,MXN,48.00
+GPA.3313-5664-3466-31721,"Oct 9, 2020",7:48:55 PM PDT,,Google fee,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,HWSTK-HF,MX,,80246,MXN,-14.40,1.000000,MXN,-14.40
+GPA.3313-5664-3466-31721,"Oct 9, 2020",7:48:55 PM PDT,Mexico VAT,Tax,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,HWSTK-HF,MX,,80246,MXN,-2.31,1.000000,MXN,-2.31
+GPA.3313-5664-3466-31721,"Oct 9, 2020",9:08:05 PM PDT,,Charge refund,Full,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,HWSTK-HF,MX,,80246,MXN,-48.00,1.000000,MXN,-48.00
+GPA.3313-5664-3466-31721,"Oct 9, 2020",9:08:05 PM PDT,,Google fee refund,Full,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,HWSTK-HF,MX,,80246,MXN,14.40,1.000000,MXN,14.40
+GPA.3313-5664-3466-31721,"Oct 9, 2020",9:08:05 PM PDT,Mexico VAT,Tax refund,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,HWSTK-HF,MX,,80246,MXN,2.31,1.000000,MXN,2.31
+GPA.3312-7673-2374-79368,"Oct 14, 2020",1:39:19 PM PDT,,Charge,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,P963F01,MX,,46260,MXN,48.00,1.000000,MXN,48.00
+GPA.3312-7673-2374-79368,"Oct 14, 2020",1:39:19 PM PDT,,Google fee,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,P963F01,MX,,46260,MXN,-14.40,1.000000,MXN,-14.40
+GPA.3312-7673-2374-79368,"Oct 14, 2020",1:39:19 PM PDT,Mexico VAT,Tax,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,P963F01,MX,,46260,MXN,-2.31,1.000000,MXN,-2.31
+GPA.3390-8378-5538-65163,"Oct 16, 2020",8:03:04 PM PDT,,Charge,,Diseño de columnas NTC - RSEE 2017,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,beyond2,MX,,56130,MXN,48.00,1.000000,MXN,48.00
+GPA.3390-8378-5538-65163,"Oct 16, 2020",8:03:04 PM PDT,,Google fee,,Diseño de columnas NTC - RSEE 2017,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,beyond2,MX,,56130,MXN,-14.40,1.000000,MXN,-14.40
+GPA.3390-8378-5538-65163,"Oct 16, 2020",8:03:04 PM PDT,Mexico VAT,Tax,,Diseño de columnas NTC - RSEE 2017,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,beyond2,MX,,56130,MXN,-2.30,1.000000,MXN,-2.30
+GPA.3388-5791-4691-38200,"Oct 23, 2020",9:29:01 AM PDT,,Charge,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,vince,MX,,62790,MXN,48.00,1.000000,MXN,48.00
+GPA.3388-5791-4691-38200,"Oct 23, 2020",9:29:01 AM PDT,,Google fee,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,vince,MX,,62790,MXN,-14.40,1.000000,MXN,-14.40
+GPA.3388-5791-4691-38200,"Oct 23, 2020",9:29:01 AM PDT,Mexico VAT,Tax,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,vince,MX,,62790,MXN,-2.31,1.000000,MXN,-2.31
+GPA.3369-2591-5674-42293,"Oct 23, 2020",9:29:29 AM PDT,,Charge,,Diseño de columnas NTC - RSEE 2017,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,vince,MX,,62790,MXN,48.00,1.000000,MXN,48.00
+GPA.3369-2591-5674-42293,"Oct 23, 2020",9:29:29 AM PDT,,Google fee,,Diseño de columnas NTC - RSEE 2017,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,vince,MX,,62790,MXN,-14.40,1.000000,MXN,-14.40
+GPA.3369-2591-5674-42293,"Oct 23, 2020",9:29:29 AM PDT,Mexico VAT,Tax,,Diseño de columnas NTC - RSEE 2017,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,vince,MX,,62790,MXN,-2.30,1.000000,MXN,-2.30
+GPA.3355-6467-9565-95839,"Oct 26, 2020",7:20:29 PM PDT,,Charge,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,potter_n,MX,,90830,MXN,48.00,1.000000,MXN,48.00
+GPA.3355-6467-9565-95839,"Oct 26, 2020",7:20:29 PM PDT,,Google fee,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,potter_n,MX,,90830,MXN,-14.40,1.000000,MXN,-14.40
+GPA.3355-6467-9565-95839,"Oct 26, 2020",7:20:29 PM PDT,Mexico VAT,Tax,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,potter_n,MX,,90830,MXN,-2.30,1.000000,MXN,-2.30
+GPA.3313-2827-6195-60042,"Oct 27, 2020",9:40:13 PM PDT,,Charge,,Diseño de columnas NTC - RSEE 2017,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,raphael,MX,,01530,MXN,48.00,1.000000,MXN,48.00
+GPA.3313-2827-6195-60042,"Oct 27, 2020",9:40:13 PM PDT,,Google fee,,Diseño de columnas NTC - RSEE 2017,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,raphael,MX,,01530,MXN,-14.40,1.000000,MXN,-14.40
+GPA.3313-2827-6195-60042,"Oct 27, 2020",9:40:13 PM PDT,Mexico VAT,Tax,,Diseño de columnas NTC - RSEE 2017,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,raphael,MX,,01530,MXN,-2.31,1.000000,MXN,-2.31
+GPA.3301-5471-2090-86260,"Oct 27, 2020",9:40:58 PM PDT,,Charge,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,raphael,MX,,01530,MXN,48.00,1.000000,MXN,48.00
+GPA.3301-5471-2090-86260,"Oct 27, 2020",9:40:58 PM PDT,,Google fee,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,raphael,MX,,01530,MXN,-14.40,1.000000,MXN,-14.40
+GPA.3301-5471-2090-86260,"Oct 27, 2020",9:40:58 PM PDT,Mexico VAT,Tax,,Diseño de vigas NTC - RSEE 2017,com.vigas.luiscantero.disenodevigasmexico,0,,raphael,MX,,01530,MXN,-2.30,1.000000,MXN,-2.30

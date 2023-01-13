@@ -1,0 +1,57 @@
+Description,Transaction Date,Transaction Time,Tax Type,Transaction Type,Refund Type,Product Title,Product id,Product Type,Sku Id,Hardware,Buyer Country,Buyer State,Buyer Postal Code,Buyer Currency,Amount (Buyer Currency),Currency Conversion Rate,Merchant Currency,Amount (Merchant Currency)
+GPA.3378-2522-4996-04113,"Nov 1, 2017",8:55:40 PM PDT,,Charge,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,falcon_umts,MX,,07270,MXN,15.00,1.000000,MXN,15.00
+GPA.3378-2522-4996-04113,"Nov 1, 2017",8:55:40 PM PDT,,Google fee,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,falcon_umts,MX,,07270,MXN,-4.50,1.000000,MXN,-4.50
+GPA.3360-2821-2273-20860,"Nov 1, 2017",9:11:53 PM PDT,,Charge,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,falcon_umts,MX,,07270,MXN,17.00,1.000000,MXN,17.00
+GPA.3360-2821-2273-20860,"Nov 1, 2017",9:11:53 PM PDT,,Google fee,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,falcon_umts,MX,,07270,MXN,-5.10,1.000000,MXN,-5.10
+GPA.3323-8274-1239-04406,"Nov 2, 2017",12:06:46 PM PDT,,Charge,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,golden,MX,,34500,MXN,15.00,1.000000,MXN,15.00
+GPA.3323-8274-1239-04406,"Nov 2, 2017",12:06:46 PM PDT,,Google fee,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,golden,MX,,34500,MXN,-4.50,1.000000,MXN,-4.50
+GPA.3355-0017-8660-86731,"Nov 6, 2017",4:39:39 PM PST,,Charge,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,dream2lte,MX,CDMX,14735,MXN,15.00,1.000000,MXN,15.00
+GPA.3355-0017-8660-86731,"Nov 6, 2017",4:39:39 PM PST,,Google fee,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,dream2lte,MX,CDMX,14735,MXN,-4.50,1.000000,MXN,-4.50
+GPA.3361-0947-0223-47417,"Nov 9, 2017",9:09:31 PM PST,,Charge,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,hwALE-H,MX,,07187,MXN,15.00,1.000000,MXN,15.00
+GPA.3361-0947-0223-47417,"Nov 9, 2017",9:09:31 PM PST,,Google fee,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,hwALE-H,MX,,07187,MXN,-4.50,1.000000,MXN,-4.50
+GPA.3341-9613-8082-09711,"Nov 10, 2017",9:27:03 AM PST,,Charge,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,hlteatt,MX,SIN,82180,MXN,15.00,1.000000,MXN,15.00
+GPA.3341-9613-8082-09711,"Nov 10, 2017",9:27:03 AM PST,,Google fee,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,hlteatt,MX,SIN,82180,MXN,-4.50,1.000000,MXN,-4.50
+GPA.3354-5749-5263-29119,"Nov 10, 2017",9:27:28 AM PST,,Charge,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,hlteatt,MX,SIN,82180,MXN,17.00,1.000000,MXN,17.00
+GPA.3354-5749-5263-29119,"Nov 10, 2017",9:27:28 AM PST,,Google fee,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,hlteatt,MX,SIN,82180,MXN,-5.10,1.000000,MXN,-5.10
+GPA.3313-8438-3738-74166,"Nov 11, 2017",6:18:28 PM PST,,Charge,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,P637F10,MX,,78210,MXN,15.00,1.000000,MXN,15.00
+GPA.3313-8438-3738-74166,"Nov 11, 2017",6:18:28 PM PST,,Google fee,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,P637F10,MX,,78210,MXN,-4.50,1.000000,MXN,-4.50
+GPA.3322-0172-5601-14979,"Nov 13, 2017",9:38:24 PM PST,,Charge,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,osprey_uds,MX,,45132,MXN,15.00,1.000000,MXN,15.00
+GPA.3322-0172-5601-14979,"Nov 13, 2017",9:38:24 PM PST,,Google fee,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,osprey_uds,MX,,45132,MXN,-4.50,1.000000,MXN,-4.50
+GPA.3370-8118-1154-12379,"Nov 13, 2017",9:41:33 PM PST,,Charge,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,osprey_uds,MX,,45132,MXN,17.00,1.000000,MXN,17.00
+GPA.3370-8118-1154-12379,"Nov 13, 2017",9:41:33 PM PST,,Google fee,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,osprey_uds,MX,,45132,MXN,-5.10,1.000000,MXN,-5.10
+GPA.3388-9405-5588-35331,"Nov 14, 2017",6:52:20 AM PST,,Charge,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,k7,MX,,07708,MXN,17.00,1.000000,MXN,17.00
+GPA.3388-9405-5588-35331,"Nov 14, 2017",6:52:20 AM PST,,Google fee,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,k7,MX,,07708,MXN,-5.10,1.000000,MXN,-5.10
+GPA.3390-2245-9784-94106,"Nov 15, 2017",9:32:12 PM PST,,Charge,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,k7,MX,,07708,MXN,15.00,1.000000,MXN,15.00
+GPA.3390-2245-9784-94106,"Nov 15, 2017",9:32:12 PM PST,,Google fee,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,k7,MX,,07708,MXN,-4.50,1.000000,MXN,-4.50
+GPA.3390-8581-9078-33857,"Nov 17, 2017",7:05:38 PM PST,,Charge,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,j1acevelte,MX,TAMPS,88000,MXN,17.00,1.000000,MXN,17.00
+GPA.3390-8581-9078-33857,"Nov 17, 2017",7:05:38 PM PST,,Google fee,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,j1acevelte,MX,TAMPS,88000,MXN,-5.10,1.000000,MXN,-5.10
+GPA.3379-3876-9518-15077,"Nov 20, 2017",5:34:08 PM PST,,Charge,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,a5y17lte,MX,,71508,MXN,17.00,1.000000,MXN,17.00
+GPA.3379-3876-9518-15077,"Nov 20, 2017",5:34:08 PM PST,,Google fee,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,a5y17lte,MX,,71508,MXN,-5.10,1.000000,MXN,-5.10
+GPA.3316-3969-8294-64418,"Nov 20, 2017",5:35:57 PM PST,,Charge,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,a5y17lte,MX,,71508,MXN,15.00,1.000000,MXN,15.00
+GPA.3316-3969-8294-64418,"Nov 20, 2017",5:35:57 PM PST,,Google fee,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,a5y17lte,MX,,71508,MXN,-4.50,1.000000,MXN,-4.50
+GPA.3369-4496-4407-48072,"Nov 20, 2017",10:04:35 PM PST,,Charge,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,lux_uds,MX,,50250,MXN,17.00,1.000000,MXN,17.00
+GPA.3369-4496-4407-48072,"Nov 20, 2017",10:04:35 PM PST,,Google fee,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,lux_uds,MX,,50250,MXN,-5.10,1.000000,MXN,-5.10
+GPA.3309-7699-2235-09306,"Nov 20, 2017",10:45:34 PM PST,,Charge,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,lucye,MX,,89650,MXN,17.00,1.000000,MXN,17.00
+GPA.3309-7699-2235-09306,"Nov 20, 2017",10:45:34 PM PST,,Google fee,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,lucye,MX,,89650,MXN,-5.10,1.000000,MXN,-5.10
+GPA.3307-9024-8209-33231,"Nov 21, 2017",12:57:38 PM PST,,Charge,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,d2,MX,,42186,MXN,17.00,1.000000,MXN,17.00
+GPA.3307-9024-8209-33231,"Nov 21, 2017",12:57:38 PM PST,,Google fee,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,d2,MX,,42186,MXN,-5.10,1.000000,MXN,-5.10
+GPA.3349-0873-5428-24306,"Nov 21, 2017",3:55:23 PM PST,,Charge,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,HWVNS-H,MX,,89316,MXN,17.00,1.000000,MXN,17.00
+GPA.3349-0873-5428-24306,"Nov 21, 2017",3:55:23 PM PST,,Google fee,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,HWVNS-H,MX,,89316,MXN,-5.10,1.000000,MXN,-5.10
+GPA.3336-4635-9156-40894,"Nov 22, 2017",12:22:54 PM PST,,Charge,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,ZTE_Blade_V580,MX,,86250,MXN,15.00,1.000000,MXN,15.00
+GPA.3336-4635-9156-40894,"Nov 22, 2017",12:22:54 PM PST,,Google fee,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,ZTE_Blade_V580,MX,,86250,MXN,-4.50,1.000000,MXN,-4.50
+GPA.3342-9184-3533-46707,"Nov 22, 2017",12:35:01 PM PST,,Charge,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,nash,MX,TAB,86500,MXN,17.00,1.000000,MXN,17.00
+GPA.3342-9184-3533-46707,"Nov 22, 2017",12:35:01 PM PST,,Google fee,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,nash,MX,TAB,86500,MXN,-5.10,1.000000,MXN,-5.10
+GPA.3359-5015-5586-79445,"Nov 22, 2017",8:27:45 PM PST,,Charge,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,nicklaus_f,MX,,86270,MXN,15.00,1.000000,MXN,15.00
+GPA.3359-5015-5586-79445,"Nov 22, 2017",8:27:45 PM PST,,Google fee,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,nicklaus_f,MX,,86270,MXN,-4.50,1.000000,MXN,-4.50
+GPA.3317-3974-1302-01006,"Nov 22, 2017",8:39:11 PM PST,,Charge,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,nicklaus_f,MX,,86270,MXN,17.00,1.000000,MXN,17.00
+GPA.3317-3974-1302-01006,"Nov 22, 2017",8:39:11 PM PST,,Google fee,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,nicklaus_f,MX,,86270,MXN,-5.10,1.000000,MXN,-5.10
+GPA.3340-5067-9127-38854,"Nov 27, 2017",9:06:10 AM PST,,Charge,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,ZTE_BLADE_V0720,MX,,54120,MXN,15.00,1.000000,MXN,15.00
+GPA.3340-5067-9127-38854,"Nov 27, 2017",9:06:10 AM PST,,Google fee,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,ZTE_BLADE_V0720,MX,,54120,MXN,-4.50,1.000000,MXN,-4.50
+GPA.3320-2501-9031-81299,"Nov 27, 2017",9:11:59 AM PST,,Charge,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,ZTE_BLADE_V0720,MX,,54120,MXN,17.00,1.000000,MXN,17.00
+GPA.3320-2501-9031-81299,"Nov 27, 2017",9:11:59 AM PST,,Google fee,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,ZTE_BLADE_V0720,MX,,54120,MXN,-5.10,1.000000,MXN,-5.10
+GPA.3312-2584-6874-53793,"Nov 27, 2017",7:54:21 PM PST,,Charge,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,athene,MX,,57000,MXN,15.00,1.000000,MXN,15.00
+GPA.3312-2584-6874-53793,"Nov 27, 2017",7:54:21 PM PST,,Google fee,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,athene,MX,,57000,MXN,-4.50,1.000000,MXN,-4.50
+GPA.3314-6337-1978-93096,"Nov 28, 2017",4:21:39 PM PST,,Charge,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,athene,MX,,57000,MXN,17.00,1.000000,MXN,17.00
+GPA.3314-6337-1978-93096,"Nov 28, 2017",4:21:39 PM PST,,Google fee,,Diseño de columnas NTC - DF 2004,com.ingenieriacivilmexico.luiscantero.disenodecolumnasmexico,0,,athene,MX,,57000,MXN,-5.10,1.000000,MXN,-5.10
+GPA.3319-2905-5309-89482,"Nov 29, 2017",8:51:22 AM PST,,Charge,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,harpia,MX,,02110,MXN,15.00,1.000000,MXN,15.00
+GPA.3319-2905-5309-89482,"Nov 29, 2017",8:51:22 AM PST,,Google fee,,Diseño de vigas NTC - DF 2004,com.vigas.luiscantero.disenodevigasmexico,0,,harpia,MX,,02110,MXN,-4.50,1.000000,MXN,-4.50
